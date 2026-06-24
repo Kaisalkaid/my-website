@@ -1,0 +1,15 @@
+/Users/kaisalkaid/Downloads/MethodAssignment/bin/Debug/net10.0/MethodAssignment
+/Users/kaisalkaid/Downloads/MethodAssignment/bin/Debug/net10.0/MethodAssignment.deps.json
+/Users/kaisalkaid/Downloads/MethodAssignment/bin/Debug/net10.0/MethodAssignment.runtimeconfig.json
+/Users/kaisalkaid/Downloads/MethodAssignment/bin/Debug/net10.0/MethodAssignment.dll
+/Users/kaisalkaid/Downloads/MethodAssignment/bin/Debug/net10.0/MethodAssignment.pdb
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.AssemblyInfoInputs.cache
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.AssemblyInfo.cs
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.csproj.CoreCompileInputs.cache
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.sourcelink.json
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.dll
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/refint/MethodAssignment.dll
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.pdb
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/MethodAssignment.genruntimeconfig.cache
+/Users/kaisalkaid/Downloads/MethodAssignment/obj/Debug/net10.0/ref/MethodAssignment.dll

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Website</title>
+
+    <style>
+        body {
+            background-color: lightblue;
+            text-align: center;
+        }
+
+        h1 {
+            color: darkblue;
+        }
+
+        #box {
+            width: 100px;
+            height: 100px;
+            background-color: red;
+            position: relative;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Welcome</h1>
+    <p>My favorite song 🎵</p>
+
+    <iframe width="300" height="200"
+        src="https://www.youtube.com/embed/tgbNymZ7vqY">
+    </iframe>
+
+    <br><br>
+
+    <div id="box"></div>
+
+    <button onclick="move()">Click Me</button>
+
+    <script>
+        function move() {
+            document.getElementById("box").style.left = "200px";
+        }
+    </script>
+
+</body>
+</html>
